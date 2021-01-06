@@ -15,6 +15,7 @@ code: <a href='https://github.com/SkellyM386/Fallout-76-Nuke-Codes-API-Node.js/b
 
 <hr />
 if you have any questions feel free to email me at <a href="https://mail.google.com/mail/?tab=rm&authuser=0&ogbl">skellymclane@gmail.com</a>
-
-
+<br />
+<hr />
+code powered by Echsarah on discord the owner of Nukacrypt.
 
